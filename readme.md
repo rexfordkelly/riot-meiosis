@@ -1,6 +1,6 @@
 # Riot Meiosis
 
-Meiosis state manager for Riot using Erre. [Learn more about meiosis](http://RiotMeiosis.js.org).
+Meiosis state manager for Riot using Erre. [Learn more about meiosis](http//meiosis.js.org).
 
 * [Usage](#usage)
 * [API](#api)
